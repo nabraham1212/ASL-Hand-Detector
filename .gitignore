@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# NOTE: data/asl_landmarks.csv and models/asl_model.pkl are NOT ignored,
+# so they ship with the repo for a working demo. To keep them out of GitHub,
+# uncomment the two lines below:
+# data/asl_landmarks.csv
+# models/asl_model.pkl
