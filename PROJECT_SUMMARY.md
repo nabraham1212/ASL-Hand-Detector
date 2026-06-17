@@ -59,11 +59,6 @@ or spaces in the answer is removed automatically.
 - A geometry-aware coach that compares your landmarks to the average per letter.
 - Text-to-speech, score tracking, difficulty levels, and a web version.
 
-## Why this is a strong AI / computer vision project
+---
 
-It is a complete, end-to-end ML pipeline - data collection, feature engineering,
-training, evaluation, and real-time inference - wrapped in an interactive product.
-It demonstrates practical computer vision (MediaPipe landmarks), classic ML
-(Random Forest on engineered features), and real-world engineering: turning a noisy
-per-frame signal into reliable input with smoothing and a confirmation state machine,
-and keeping training/serving consistent through a shared normalization module.
+*Built by Nevin Abraham - Junior, Paradise Valley High School CREST STEM Program*
