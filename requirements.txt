@@ -1,0 +1,12 @@
+# SignSpell dependencies
+# mediapipe is the version-sensitive one (the app uses the mp.solutions.hands API).
+# If loading models/asl_model.pkl ever errors, match scikit-learn to the
+# "sklearn_version" listed in models/asl_model_info.json.
+
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
