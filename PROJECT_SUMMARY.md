@@ -67,11 +67,3 @@ It demonstrates practical computer vision (MediaPipe landmarks), classic ML
 (Random Forest on engineered features), and real-world engineering: turning a noisy
 per-frame signal into reliable input with smoothing and a confirmation state machine,
 and keeping training/serving consistent through a shared normalization module.
-
-## Resume bullet
-
-> Built SignSpell, a real-time ASL Hangman learning game using Python, OpenCV,
-> MediaPipe hand landmarks, and a scikit-learn RandomForestClassifier (24 letters,
-> ~0.99 test accuracy); implemented landmark normalization, smoothing, a
-> confidence-based confirmation state machine, and an educational cyber/tech
-> vocabulary mode.
